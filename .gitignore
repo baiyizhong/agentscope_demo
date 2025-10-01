@@ -5,8 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+*.env
+*.log*
 
 # Virtual environments
 .venv
 .idea
 .vscode
+.pytest_cache
+.ipynb_checkpoints
